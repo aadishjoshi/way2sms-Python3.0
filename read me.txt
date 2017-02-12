@@ -1,0 +1,13 @@
+####################################################################################################################################################
+								Python way2sms
+####################################################################################################################################################
+
+Way2Sms is a free messaging website which grants users to send text messages to any mobile number for free.
+
+This script is written for Python3.0
+
+**********Guidelines**********
+
+1) Register for free way2sms account.
+2) Verify your mobile number.
+3) Run this python script and send messages to your beloved people.
